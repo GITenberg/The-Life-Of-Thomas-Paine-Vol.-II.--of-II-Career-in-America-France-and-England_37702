@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1283
     wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37702#The-Life-Of-Thomas-Paine-Vol.-II.--of-II-Career-in-America-France-and-England
 gutenberg_issued: '2011-10-10'
 gutenberg_type: Text
 identifiers:
