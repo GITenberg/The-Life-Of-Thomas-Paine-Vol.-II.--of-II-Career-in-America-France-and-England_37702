@@ -1,0 +1,29 @@
+_repo: The-Life-Of-Thomas-Paine-Vol.-II.--of-II-Career-in-America-France-and-England_37702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conway, Moncure Daniel
+    alias: Conway, M. D. (Moncure Daniel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '1283'
+    url: http://www.gutenberg.org/2009/agents/1283
+    wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paine, Thomas, 1737-1809'
+- !lcc 'JC'
+title: "The Life Of Thomas Paine, Vol. 2. (of 2)\r\nWith A History of His Literary,\
+  \ Political and Religious Career in America France, and England"
+url: http://www.gutenberg.org/ebooks/37702
